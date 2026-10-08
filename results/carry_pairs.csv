@@ -1,0 +1,455 @@
+asset,borrow,lend,avg_borrow_apr,avg_lend_apr,avg_spread_pp,pct_days_positive,worst_30d_spread_pp,last_30d_spread_pp,first_half_spread_pp,second_half_spread_pp
+USD,OKX margin USDT,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],2.879,5.251,2.372,100.0,1.473,1.559,2.654,2.091
+USD,OKX margin USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],2.982,5.251,2.269,98.6,1.434,1.551,2.569,1.972
+USD,OKX margin USDT,Bitfinex funding USD,2.879,4.982,2.103,94.2,0.884,1.952,2.12,2.085
+USD,OKX margin USDT,Bitfinex funding USDT,2.879,4.979,2.1,85.5,0.043,1.869,2.044,2.154
+USD,OKX margin USDC,Bitfinex funding USD,2.982,4.982,2.0,91.8,0.673,1.944,2.035,1.965
+USD,OKX margin USDC,Bitfinex funding USDT,2.982,4.979,1.997,83.8,0.043,1.861,1.959,2.035
+USD,OKX margin USDT,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],2.879,4.751,1.872,100.0,0.932,1.429,2.166,1.579
+USD,OKX margin USDT,morpho-blue GTUSDCP vault USDC [Base],2.879,4.747,1.867,98.1,0.283,0.84,2.157,1.579
+USD,OKX margin USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],2.982,4.751,1.769,97.0,0.893,1.421,2.08,1.459
+USD,OKX margin USDC,morpho-blue GTUSDCP vault USDC [Base],2.982,4.747,1.765,95.9,0.244,0.832,2.072,1.459
+USD,OKX margin USDT,fluid-lending USDC vault USDC [Ethereum],2.879,4.631,1.752,94.0,0.072,0.958,1.264,2.238
+USD,OKX margin USDC,fluid-lending USDC vault USDC [Ethereum],2.982,4.631,1.65,94.2,0.069,0.951,1.178,2.118
+USD,OKX margin USDT,morpho-blue SPARKUSDC vault USDC [Base],2.879,4.515,1.635,97.3,0.154,0.393,2.089,1.184
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],3.713,5.251,1.538,91.0,0.014,1.04,2.251,0.83
+USD,OKX margin USDC,morpho-blue SPARKUSDC vault USDC [Base],2.982,4.515,1.533,93.4,0.115,0.385,2.004,1.064
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],3.733,5.251,1.519,89.6,-0.447,1.024,2.332,0.709
+USD,OKX margin USDT,fluid-lending USDT vault USDT [Ethereum],2.879,4.334,1.455,91.5,-0.338,1.085,0.978,1.929
+USD,OKX margin USDT,morpho-blue STEAKUSDC vault USDC [Base],2.879,4.259,1.379,86.3,-0.278,-0.269,2.113,0.65
+USD,OKX margin USDT,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],2.879,4.238,1.359,99.2,0.51,1.405,1.286,1.432
+USD,OKX margin USDC,fluid-lending USDT vault USDT [Ethereum],2.982,4.334,1.352,88.5,-0.377,1.077,0.893,1.81
+USD,OKX margin USDC,morpho-blue STEAKUSDC vault USDC [Base],2.982,4.259,1.277,83.0,-0.291,-0.277,2.027,0.53
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Bitfinex funding USD,3.713,4.982,1.269,77.8,-1.075,1.433,1.717,0.823
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Bitfinex funding USDT,3.713,4.979,1.266,71.2,-1.235,1.349,1.641,0.893
+USD,OKX margin USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],2.982,4.238,1.256,95.6,0.471,1.397,1.2,1.312
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Bitfinex funding USD,3.733,4.982,1.249,77.8,-1.464,1.418,1.798,0.703
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Bitfinex funding USDT,3.733,4.979,1.246,70.4,-1.249,1.334,1.723,0.773
+USD,Aave v3 Arbitrum USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.058,5.251,1.193,95.9,-0.954,1.098,1.463,0.926
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.188,5.251,1.064,94.8,0.16,0.162,1.59,0.539
+USD,OKX margin USDT,Kamino (Solana) USDC [Solana],2.879,3.932,1.053,73.7,-0.949,1.63,0.121,1.98
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.204,5.251,1.047,94.5,0.17,0.17,1.546,0.551
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],3.713,4.751,1.038,85.2,-0.568,0.909,1.763,0.318
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,morpho-blue GTUSDCP vault USDC [Base],3.713,4.747,1.034,85.5,-0.406,0.321,1.754,0.317
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.221,5.251,1.03,92.3,0.045,0.045,1.557,0.506
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],3.733,4.751,1.018,83.8,-1.1,0.894,1.844,0.197
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,morpho-blue GTUSDCP vault USDC [Base],3.733,4.747,1.014,84.4,-0.781,0.306,1.836,0.197
+USD,OKX margin USDT,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],2.879,3.876,0.997,98.1,0.067,0.082,1.179,0.816
+USD,OKX margin USDC,Kamino (Solana) USDC [Solana],2.982,3.932,0.95,71.0,-0.911,1.622,0.036,1.86
+USD,Aave v3 Arbitrum USDC,Bitfinex funding USD,4.058,4.982,0.924,71.2,-2.031,1.491,0.929,0.919
+USD,Aave v3 Arbitrum USDC,Bitfinex funding USDT,4.058,4.979,0.921,65.2,-2.329,1.408,0.853,0.989
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,fluid-lending USDC vault USDC [Ethereum],3.713,4.631,0.919,77.3,-0.472,0.439,0.861,0.976
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,fluid-lending USDC vault USDC [Ethereum],3.733,4.631,0.899,76.4,-0.448,0.424,0.942,0.856
+USD,OKX margin USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],2.982,3.876,0.894,94.5,0.062,0.074,1.093,0.696
+USD,Aave v3 Ethereum USDT,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.357,5.251,0.894,94.5,-2.118,0.51,1.274,0.516
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,morpho-blue SPARKUSDC vault USDC [Base],3.713,4.515,0.802,78.1,-0.834,-0.127,1.686,-0.078
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Bitfinex funding USD,4.188,4.982,0.794,68.5,-0.754,0.555,1.057,0.533
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Bitfinex funding USDT,4.188,4.979,0.791,62.5,-1.192,0.471,0.981,0.603
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,morpho-blue SPARKUSDC vault USDC [Base],3.733,4.515,0.782,77.3,-1.231,-0.142,1.767,-0.198
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Bitfinex funding USD,4.204,4.982,0.777,66.8,-0.786,0.563,1.012,0.544
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Bitfinex funding USDT,4.204,4.979,0.774,61.6,-1.241,0.479,0.936,0.614
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Bitfinex funding USD,4.221,4.982,0.761,66.8,-0.806,0.438,1.024,0.5
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Bitfinex funding USDT,4.221,4.979,0.758,61.9,-1.205,0.355,0.948,0.569
+USD,Aave v3 Arbitrum USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.058,4.751,0.693,92.6,-1.303,0.968,0.975,0.413
+USD,Aave v3 Arbitrum USDC,morpho-blue GTUSDCP vault USDC [Base],4.058,4.747,0.689,88.2,-1.615,0.379,0.966,0.413
+ETH,OKX margin WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],1.876,2.546,0.67,96.2,-0.019,1.351,0.332,1.005
+ETH,OKX margin WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],1.876,2.531,0.654,85.8,-0.259,1.332,0.491,0.817
+ETH,OKX margin WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],1.876,2.509,0.632,96.7,-0.152,1.229,0.304,0.959
+USD,Aave v3 Ethereum USDT,Bitfinex funding USD,4.357,4.982,0.625,67.4,-3.14,0.904,0.74,0.51
+ETH,OKX margin WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],1.876,2.5,0.623,82.2,-0.611,1.35,0.324,0.921
+USD,Aave v3 Ethereum USDT,Bitfinex funding USDT,4.357,4.979,0.622,61.1,-3.347,0.82,0.664,0.579
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,fluid-lending USDT vault USDT [Ethereum],3.713,4.334,0.622,75.3,-1.138,0.566,0.575,0.668
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,fluid-lending USDT vault USDT [Ethereum],3.733,4.334,0.602,77.8,-1.398,0.551,0.656,0.547
+ETH,OKX margin WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],1.876,2.456,0.58,96.7,-0.283,1.262,0.336,0.823
+USD,Aave v3 Ethereum USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.672,5.251,0.579,90.7,-1.656,0.301,1.032,0.128
+ETH,OKX margin WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],1.876,2.454,0.578,87.4,-0.212,1.321,0.208,0.946
+USD,Aave v3 Arbitrum USDC,fluid-lending USDC vault USDC [Ethereum],4.058,4.631,0.574,65.2,-1.627,0.498,0.072,1.072
+ETH,OKX margin WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],1.876,2.444,0.567,94.8,-0.202,1.252,0.247,0.886
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.188,4.751,0.563,74.2,-0.274,0.031,1.102,0.027
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,morpho-blue GTUSDCP vault USDC [Base],4.188,4.747,0.559,67.7,-0.557,-0.557,1.094,0.027
+USD,OKX margin USDT,Lend USDC on aave-v3 USDC [Ethereum],2.879,3.435,0.556,67.1,-0.759,0.187,0.195,0.915
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.204,4.751,0.547,72.6,-0.308,0.039,1.057,0.038
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,morpho-blue STEAKUSDC vault USDC [Base],3.713,4.259,0.546,65.5,-1.373,-0.789,1.71,-0.612
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,morpho-blue GTUSDCP vault USDC [Base],4.204,4.747,0.542,66.8,-0.549,-0.549,1.049,0.038
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.221,4.751,0.53,72.3,-0.34,-0.085,1.069,-0.006
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,morpho-blue STEAKUSDC vault USDC [Base],3.733,4.259,0.526,63.6,-1.823,-0.804,1.791,-0.732
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,morpho-blue GTUSDCP vault USDC [Base],4.221,4.747,0.526,67.4,-0.674,-0.674,1.061,-0.006
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],3.713,4.238,0.526,74.5,-0.847,0.885,0.882,0.171
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],3.733,4.238,0.506,74.5,-1.379,0.87,0.964,0.05
+ETH,OKX margin WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],1.876,2.378,0.502,88.8,-0.577,1.331,0.197,0.806
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],2.086,2.546,0.46,87.1,-0.27,0.273,0.538,0.382
+USD,Aave v3 Arbitrum USDC,morpho-blue SPARKUSDC vault USDC [Base],4.058,4.515,0.457,79.5,-2.025,-0.068,0.898,0.018
+USD,OKX margin USDC,Lend USDC on aave-v3 USDC [Ethereum],2.982,3.435,0.454,62.2,-0.759,0.18,0.11,0.795
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],2.086,2.531,0.445,80.3,-0.778,0.253,0.697,0.194
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,fluid-lending USDC vault USDC [Ethereum],4.188,4.631,0.444,62.5,-0.56,-0.439,0.2,0.686
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,fluid-lending USDC vault USDC [Ethereum],4.204,4.631,0.427,60.8,-0.586,-0.431,0.155,0.697
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],2.086,2.509,0.423,87.1,-0.382,0.151,0.51,0.336
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],2.086,2.5,0.414,80.8,-1.339,0.271,0.53,0.298
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,fluid-lending USDC vault USDC [Ethereum],4.221,4.631,0.411,60.5,-0.578,-0.555,0.167,0.653
+USD,Aave v3 Ethereum USDT,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.357,4.751,0.394,86.8,-2.493,0.38,0.786,0.004
+USD,Aave v3 Ethereum USDT,morpho-blue GTUSDCP vault USDC [Base],4.357,4.747,0.389,77.5,-2.68,-0.208,0.777,0.004
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],2.086,2.456,0.37,81.6,-0.572,0.184,0.541,0.2
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],2.086,2.454,0.368,80.3,-0.477,0.242,0.413,0.322
+ETH,OKX margin WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],1.876,2.235,0.359,72.6,-0.458,1.157,0.046,0.671
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],2.086,2.444,0.358,83.3,-0.581,0.174,0.453,0.263
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],2.212,2.546,0.333,82.5,-0.466,0.187,0.35,0.317
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,morpho-blue SPARKUSDC vault USDC [Base],4.188,4.515,0.327,53.4,-1.005,-1.005,1.026,-0.368
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],2.212,2.531,0.318,74.0,-0.838,0.167,0.508,0.129
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,morpho-blue SPARKUSDC vault USDC [Base],4.204,4.515,0.31,53.2,-0.997,-0.997,0.981,-0.357
+USD,Aave v3 Ethereum USDC,Bitfinex funding USD,4.672,4.982,0.31,57.8,-2.646,0.694,0.499,0.121
+USD,Aave v3 Ethereum USDC,Bitfinex funding USDT,4.672,4.979,0.307,54.5,-2.944,0.61,0.423,0.191
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],2.212,2.509,0.296,83.6,-0.589,0.065,0.322,0.271
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,morpho-blue SPARKUSDC vault USDC [Base],4.221,4.515,0.294,54.0,-1.121,-1.121,0.993,-0.401
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],2.086,2.378,0.292,78.4,-0.752,0.252,0.403,0.183
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],2.212,2.5,0.287,78.4,-1.413,0.185,0.342,0.233
+USD,Aave v3 Arbitrum USDC,fluid-lending USDT vault USDT [Ethereum],4.058,4.334,0.277,57.0,-1.559,0.624,-0.213,0.764
+USD,Aave v3 Ethereum USDT,fluid-lending USDC vault USDC [Ethereum],4.357,4.631,0.274,53.4,-2.689,-0.09,-0.117,0.663
+USD,Aave v3 Base USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],4.996,5.251,0.255,73.2,-0.467,0.251,0.07,0.439
+USD,OKX margin USDT,Lend USDT on aave-v3 USDT [Ethereum],2.879,3.132,0.252,47.7,-1.247,0.177,-0.091,0.594
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],2.212,2.456,0.244,74.8,-0.763,0.098,0.353,0.135
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],2.212,2.454,0.241,74.5,-0.675,0.156,0.225,0.257
+BTC,Aave v3 Ethereum CBBTC,OKX Simple Earn BTC,0.288,0.528,0.24,50.7,-0.277,-0.276,0.726,-0.244
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],2.212,2.444,0.231,78.6,-0.778,0.088,0.264,0.198
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Kamino (Solana) USDC [Solana],3.713,3.932,0.219,61.1,-1.769,1.111,-0.282,0.718
+ETH,Aave v3 Base WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],2.334,2.546,0.212,81.4,-0.22,0.148,0.331,0.093
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],2.344,2.546,0.202,74.5,-0.341,0.324,0.177,0.227
+USD,Aave v3 Arbitrum USDC,morpho-blue STEAKUSDC vault USDC [Base],4.058,4.259,0.201,55.6,-2.258,-0.73,0.921,-0.516
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Kamino (Solana) USDC [Solana],3.733,3.932,0.2,60.3,-1.481,1.096,-0.201,0.598
+ETH,OKX margin WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],1.876,2.073,0.197,63.0,-0.589,1.115,-0.073,0.464
+ETH,Aave v3 Base WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],2.334,2.531,0.197,64.1,-0.849,0.129,0.49,-0.095
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],2.344,2.531,0.187,69.9,-0.956,0.304,0.335,0.039
+BTC,Aave v3 Ethereum WBTC,OKX Simple Earn BTC,0.343,0.528,0.185,50.7,-0.372,-0.312,0.67,-0.298
+USD,Aave v3 Arbitrum USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.058,4.238,0.181,72.3,-1.587,0.944,0.094,0.266
+ETH,Aave v3 Ethereum WETH,Stake WETH -> CBETH (coinbase-wrapped-staked-eth) WETH [Ethereum],2.365,2.546,0.181,86.8,-1.421,0.286,0.334,0.028
+ETH,Aave v3 Base WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],2.334,2.509,0.175,80.0,-0.345,0.026,0.303,0.046
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],2.212,2.378,0.166,72.3,-0.765,0.166,0.215,0.118
+ETH,Aave v3 Base WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],2.334,2.5,0.166,76.4,-1.324,0.147,0.324,0.008
+ETH,Aave v3 Ethereum WETH,Stake WETH -> LSETH (liquid-collective) WETH [Ethereum],2.365,2.531,0.166,74.8,-2.045,0.267,0.493,-0.16
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],2.344,2.509,0.165,72.1,-0.344,0.202,0.149,0.181
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],3.713,3.876,0.163,69.3,-1.109,-0.438,0.775,-0.446
+USD,Aave v3 Ethereum USDT,morpho-blue SPARKUSDC vault USDC [Base],4.357,4.515,0.157,67.9,-3.015,-0.656,0.709,-0.391
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],2.344,2.5,0.156,72.9,-1.404,0.322,0.169,0.143
+SOL,OKX margin SOL,Kamino (Solana) JITOSOL [Solana],5.472,5.623,0.151,91.8,-2.915,0.79,-0.393,0.691
+USD,OKX margin USDC,Lend USDT on aave-v3 USDT [Ethereum],2.982,3.132,0.15,44.1,-1.286,0.169,-0.176,0.474
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],2.086,2.235,0.15,72.9,-0.647,0.079,0.252,0.047
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,fluid-lending USDT vault USDT [Ethereum],4.188,4.334,0.147,46.8,-0.989,-0.312,-0.085,0.377
+ETH,OKX margin WETH,Gate Uni lending WETH,1.876,2.02,0.144,75.1,-1.134,0.83,-0.274,0.56
+ETH,Aave v3 Ethereum WETH,Stake WETH -> WBETH (binance-staked-eth) WETH [Ethereum],2.365,2.509,0.144,87.4,-1.423,0.164,0.307,-0.019
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],3.733,3.876,0.143,65.2,-1.641,-0.453,0.857,-0.566
+ETH,Aave v3 Ethereum WETH,Stake WETH -> RSETH (kelp) WETH [Ethereum],2.365,2.5,0.135,81.6,-2.574,0.285,0.327,-0.057
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,fluid-lending USDT vault USDT [Ethereum],4.204,4.334,0.13,47.1,-1.036,-0.304,-0.13,0.388
+ETH,Aave v3 Base WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],2.334,2.456,0.122,63.8,-0.399,0.059,0.335,-0.09
+ETH,Aave v3 Base WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],2.334,2.454,0.12,65.5,-0.524,0.118,0.207,0.033
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,fluid-lending USDT vault USDT [Ethereum],4.221,4.334,0.114,45.8,-1.002,-0.429,-0.118,0.344
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],2.344,2.456,0.112,64.4,-0.499,0.235,0.18,0.045
+USD,Kamino (Solana) USDT,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],5.139,5.251,0.112,48.5,-1.554,-0.406,0.846,-0.618
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],2.344,2.454,0.11,68.8,-0.629,0.294,0.052,0.168
+ETH,Aave v3 Base WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],2.334,2.444,0.11,62.5,-0.351,0.049,0.246,-0.026
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],2.344,2.444,0.1,66.3,-0.416,0.225,0.092,0.108
+ETH,Aave v3 Ethereum WETH,Stake WETH -> ETHX (stader) WETH [Ethereum],2.365,2.456,0.091,73.7,-1.594,0.197,0.338,-0.155
+ETH,Aave v3 Ethereum WETH,Stake WETH -> WEETH (ether.fi-stake) WETH [Ethereum],2.365,2.454,0.089,76.4,-1.73,0.256,0.21,-0.032
+USD,Aave v3 Ethereum USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.672,4.751,0.079,62.2,-1.996,0.17,0.544,-0.384
+ETH,Aave v3 Ethereum WETH,Stake WETH -> WSTETH (lido) WETH [Ethereum],2.365,2.444,0.079,75.9,-1.48,0.187,0.249,-0.091
+USD,Aave v3 Ethereum USDC,morpho-blue GTUSDCP vault USDC [Base],4.672,4.747,0.074,61.4,-2.277,-0.418,0.536,-0.385
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,morpho-blue STEAKUSDC vault USDC [Base],4.188,4.259,0.071,46.8,-1.667,-1.667,1.049,-0.902
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,morpho-blue STEAKUSDC vault USDC [Base],4.204,4.259,0.054,46.6,-1.659,-1.659,1.004,-0.891
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.188,4.238,0.051,55.6,-0.557,0.008,0.222,-0.12
+ETH,Aave v3 Base WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],2.334,2.378,0.044,62.2,-0.751,0.128,0.196,-0.107
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,morpho-blue STEAKUSDC vault USDC [Base],4.221,4.259,0.038,46.8,-1.783,-1.783,1.016,-0.935
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],2.344,2.378,0.035,64.1,-0.94,0.304,0.042,0.028
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.204,4.238,0.034,56.4,-0.624,0.016,0.177,-0.109
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],2.212,2.235,0.023,64.7,-0.833,-0.007,0.064,-0.018
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.221,4.238,0.018,52.6,-0.623,-0.109,0.189,-0.153
+ETH,Aave v3 Ethereum WETH,Stake WETH -> OSETH (stakewise-v3) WETH [Ethereum],2.365,2.378,0.013,73.2,-2.003,0.266,0.199,-0.172
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],5.241,5.251,0.01,59.2,-0.965,0.175,0.046,-0.027
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],2.086,2.073,-0.013,43.8,-1.062,0.036,0.133,-0.159
+USD,Aave v3 Base USDC,Bitfinex funding USD,4.996,4.982,-0.014,46.0,-1.302,0.644,-0.463,0.433
+USD,Aave v3 Base USDC,Bitfinex funding USDT,4.996,4.979,-0.017,46.3,-2.562,0.561,-0.539,0.502
+USD,Aave v3 Ethereum USDT,fluid-lending USDT vault USDT [Ethereum],4.357,4.334,-0.023,49.3,-2.154,0.037,-0.402,0.354
+USD,OKX margin USDT,Kamino (Solana) USDT [Solana],2.879,2.85,-0.03,50.7,-2.908,0.168,-0.977,0.913
+USD,Aave v3 Ethereum USDC,fluid-lending USDC vault USDC [Ethereum],4.672,4.631,-0.041,39.7,-2.253,-0.3,-0.358,0.275
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Gate Uni lending WETH,2.086,2.02,-0.066,52.9,-0.837,-0.248,-0.068,-0.063
+ETH,Aave v3 Base WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],2.334,2.235,-0.098,38.1,-0.705,-0.046,0.046,-0.242
+USD,Aave v3 Ethereum USDT,morpho-blue STEAKUSDC vault USDC [Base],4.357,4.259,-0.099,51.5,-3.289,-1.318,0.732,-0.925
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],5.358,5.251,-0.107,55.1,-1.089,0.223,-0.203,-0.012
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],2.344,2.235,-0.108,41.6,-0.836,0.13,-0.109,-0.107
+BTC,Aave v3 Ethereum CBBTC,Gate Uni lending BTC,0.288,0.173,-0.115,21.6,-0.29,-0.214,-0.001,-0.229
+USD,Aave v3 Ethereum USDT,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.357,4.238,-0.119,68.2,-2.749,0.356,-0.095,-0.143
+USD,Aave v3 Arbitrum USDC,Kamino (Solana) USDC [Solana],4.058,3.932,-0.126,45.5,-1.896,1.169,-1.07,0.814
+ETH,Aave v3 Ethereum WETH,Stake WETH -> RETH (rocket-pool) WETH [Ethereum],2.365,2.235,-0.13,51.2,-1.918,0.092,0.049,-0.307
+USD,OKX margin USDC,Kamino (Solana) USDT [Solana],2.982,2.85,-0.132,46.6,-2.947,0.16,-1.062,0.793
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],2.212,2.073,-0.14,38.4,-1.27,-0.05,-0.055,-0.224
+USD,Kamino (Solana) USDT,Bitfinex funding USD,5.139,4.982,-0.157,46.0,-2.382,-0.013,0.312,-0.624
+USD,Aave v3 Ethereum USDC,morpho-blue SPARKUSDC vault USDC [Base],4.672,4.515,-0.158,47.7,-2.635,-0.865,0.468,-0.78
+USD,Kamino (Solana) USDT,Bitfinex funding USDT,5.139,4.979,-0.16,43.6,-2.385,-0.097,0.236,-0.555
+BTC,Aave v3 Ethereum WBTC,Gate Uni lending BTC,0.343,0.173,-0.17,12.9,-0.3,-0.25,-0.057,-0.283
+ETH,OKX margin WETH,Lend WETH on aave-v3 WETH [Ethereum],1.876,1.705,-0.171,29.0,-1.333,0.441,-0.688,0.343
+USD,OKX margin USDT,Lend USDS on sparklend USDS [Ethereum],2.879,2.7,-0.179,27.1,-1.254,-1.065,0.157,-0.514
+USD,Aave v3 Arbitrum USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.058,3.876,-0.182,45.8,-2.208,-0.379,-0.013,-0.35
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Gate Uni lending WETH,2.212,2.02,-0.192,38.1,-1.037,-0.334,-0.257,-0.128
+USD,Aave v3 Base USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],4.996,4.751,-0.245,32.3,-0.958,0.121,-0.418,-0.073
+USD,Aave v3 Base USDC,morpho-blue GTUSDCP vault USDC [Base],4.996,4.747,-0.249,32.1,-1.551,-0.468,-0.426,-0.073
+BTC,Aave v3 Ethereum CBBTC,Lend WBTC on aave-v3 WBTC [Arbitrum],0.288,0.037,-0.251,0.0,-0.327,-0.263,-0.244,-0.258
+BTC,Aave v3 Ethereum CBBTC,Lend CBBTC on aave-v3 CBBTC [Base],0.288,0.033,-0.255,0.0,-0.348,-0.276,-0.224,-0.285
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDC [Solana],4.188,3.932,-0.255,36.4,-1.87,0.233,-0.943,0.428
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Bitfinex funding USD,5.241,4.982,-0.26,40.3,-1.505,0.568,-0.487,-0.033
+ETH,Aave v3 Base WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],2.334,2.073,-0.261,32.6,-1.031,-0.088,-0.073,-0.448
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Bitfinex funding USDT,5.241,4.979,-0.263,42.7,-2.716,0.484,-0.563,0.037
+ETH,Aave v3 Arbitrum WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],2.344,2.073,-0.271,34.5,-1.153,0.088,-0.228,-0.314
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDC [Solana],4.204,3.932,-0.272,35.3,-1.866,0.241,-0.987,0.439
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Lend USDC on aave-v3 USDC [Ethereum],3.713,3.435,-0.277,41.1,-1.558,-0.332,-0.208,-0.347
+BTC,Aave v3 Ethereum CBBTC,Lend CBBTC on sparklend CBBTC [Ethereum],0.288,0.01,-0.278,0.0,-0.362,-0.286,-0.258,-0.299
+USD,OKX margin USDC,Lend USDS on sparklend USDS [Ethereum],2.982,2.7,-0.282,27.7,-1.197,-1.072,0.072,-0.634
+BTC,Aave v3 Ethereum CBBTC,Lend WBTC on aave-v3 WBTC [Ethereum],0.288,0.006,-0.282,0.0,-0.36,-0.283,-0.269,-0.296
+BTC,Aave v3 Ethereum CBBTC,Lend TBTC on aave-v3 TBTC [Ethereum],0.288,0.004,-0.284,0.0,-0.366,-0.286,-0.267,-0.301
+BTC,Aave v3 Ethereum CBBTC,Bitfinex funding BTC,0.288,0.003,-0.285,0.0,-0.366,-0.286,-0.27,-0.301
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDC [Solana],4.221,3.932,-0.289,35.1,-1.881,0.116,-0.976,0.395
+ETH,Aave v3 Ethereum WETH,Stake WETH -> METH (meth-protocol) WETH [Ethereum],2.365,2.073,-0.292,35.6,-2.255,0.05,-0.07,-0.513
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Lend USDC on aave-v3 USDC [Ethereum],3.733,3.435,-0.297,40.0,-2.09,-0.347,-0.126,-0.467
+BTC,Aave v3 Base CBBTC,OKX Simple Earn BTC,0.825,0.528,-0.297,28.8,-0.77,-0.656,0.084,-0.677
+BTC,Aave v3 Ethereum WBTC,Lend WBTC on aave-v3 WBTC [Arbitrum],0.343,0.037,-0.306,0.0,-0.389,-0.299,-0.3,-0.312
+ETH,OKX margin WETH,Lend WETH on sparklend WETH [Ethereum],1.876,1.568,-0.308,31.8,-1.39,0.443,-0.762,0.143
+BTC,Aave v3 Ethereum WBTC,Lend CBBTC on aave-v3 CBBTC [Base],0.343,0.033,-0.31,0.0,-0.369,-0.312,-0.28,-0.339
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.188,3.876,-0.312,37.0,-1.317,-1.315,0.115,-0.736
+ETH,Aave v3 Base WETH,Gate Uni lending WETH,2.334,2.02,-0.314,15.3,-0.763,-0.373,-0.275,-0.353
+ETH,Aave v3 Arbitrum WETH,Gate Uni lending WETH,2.344,2.02,-0.323,19.2,-0.792,-0.197,-0.43,-0.218
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.204,3.876,-0.329,34.2,-1.307,-1.307,0.07,-0.725
+BTC,Aave v3 Arbitrum WBTC,OKX Simple Earn BTC,0.86,0.528,-0.332,44.7,-1.017,-0.792,0.24,-0.901
+BTC,Aave v3 Ethereum WBTC,Lend CBBTC on sparklend CBBTC [Ethereum],0.343,0.01,-0.333,0.0,-0.407,-0.321,-0.313,-0.353
+USD,Aave v3 Ethereum USDC,fluid-lending USDT vault USDT [Ethereum],4.672,4.334,-0.338,37.5,-1.896,-0.173,-0.643,-0.034
+BTC,Aave v3 Ethereum WBTC,Lend TBTC on aave-v3 TBTC [Ethereum],0.343,0.004,-0.339,0.0,-0.416,-0.322,-0.323,-0.355
+BTC,Aave v3 Ethereum WBTC,Bitfinex funding BTC,0.343,0.003,-0.34,0.0,-0.413,-0.321,-0.325,-0.355
+BTC,Aave v3 Ethereum WBTC,Lend CBBTC on aave-v3 CBBTC [Ethereum],0.343,0.002,-0.341,0.0,-0.414,-0.321,-0.327,-0.354
+ETH,Aave v3 Ethereum WETH,Gate Uni lending WETH,2.365,2.02,-0.345,26.0,-1.81,-0.235,-0.272,-0.418
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.221,3.876,-0.345,34.8,-1.432,-1.432,0.082,-0.769
+SOL,OKX margin SOL,Kamino (Solana) SOL [Solana],5.472,5.122,-0.351,47.1,-4.06,1.183,-1.819,1.109
+USD,Kamino (Solana) USDC,Stake USDC -> SYRUPUSDC (maple) USDC [Ethereum],5.604,5.251,-0.353,46.0,-3.101,-1.862,0.987,-1.686
+USD,Aave v3 Base USDC,fluid-lending USDC vault USDC [Ethereum],4.996,4.631,-0.364,35.6,-2.183,-0.349,-1.32,0.586
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Bitfinex funding USD,5.358,4.982,-0.376,37.8,-1.877,0.616,-0.737,-0.018
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Bitfinex funding USDT,5.358,4.979,-0.379,41.1,-3.033,0.533,-0.812,0.051
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Lend WETH on aave-v3 WETH [Ethereum],2.086,1.705,-0.381,7.4,-0.972,-0.638,-0.482,-0.281
+USD,Kamino (Solana) USDT,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],5.139,4.751,-0.388,36.4,-1.931,-0.537,0.358,-1.13
+USD,Kamino (Solana) USDT,morpho-blue GTUSDCP vault USDC [Base],5.139,4.747,-0.393,39.2,-1.936,-1.125,0.349,-1.13
+USD,Aave v3 Ethereum USDC,morpho-blue STEAKUSDC vault USDC [Base],4.672,4.259,-0.414,43.0,-2.886,-1.528,0.491,-1.314
+USD,Aave v3 Ethereum USDT,Kamino (Solana) USDC [Solana],4.357,3.932,-0.425,37.0,-2.572,0.582,-1.259,0.405
+USD,Aave v3 Ethereum USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.672,4.238,-0.434,36.2,-2.286,0.147,-0.336,-0.531
+USD,Aave v3 Base USDC,morpho-blue SPARKUSDC vault USDC [Base],4.996,4.515,-0.481,16.4,-1.682,-0.915,-0.495,-0.468
+USD,Aave v3 Ethereum USDT,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.357,3.876,-0.481,37.0,-3.31,-0.967,-0.202,-0.76
+USD,OKX margin USDT,Gate Uni lending USDC,2.879,2.395,-0.485,13.4,-1.724,-1.145,-0.652,-0.318
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],5.241,4.751,-0.49,14.0,-1.275,0.044,-0.442,-0.539
+ETH,OKX margin WETH,Bitfinex funding WETH,1.876,1.378,-0.498,14.0,-1.973,0.788,-0.103,-0.891
+USD,Kamino (Solana) USDT,fluid-lending USDC vault USDC [Ethereum],5.139,4.631,-0.508,35.6,-2.425,-1.007,-0.544,-0.471
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Lend WETH on aave-v3 WETH [Ethereum],2.212,1.705,-0.508,5.8,-1.158,-0.724,-0.671,-0.346
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Lend WETH on sparklend WETH [Ethereum],2.086,1.568,-0.518,6.8,-1.304,-0.636,-0.556,-0.48
+USD,OKX margin USDT,Lend USDE on aave-v3 USDE [Ethereum],2.879,2.347,-0.532,33.7,-2.524,-2.524,-1.31,0.242
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Lend USDT on aave-v3 USDT [Ethereum],3.713,3.132,-0.581,25.5,-2.332,-0.342,-0.494,-0.668
+USD,OKX margin USDC,Gate Uni lending USDC,2.982,2.395,-0.587,12.1,-1.613,-1.153,-0.737,-0.438
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Lend USDT on aave-v3 USDT [Ethereum],3.733,3.132,-0.601,25.8,-2.864,-0.357,-0.412,-0.788
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],5.358,4.751,-0.607,9.3,-1.433,0.093,-0.691,-0.524
+USD,Morpho WETH/USDC 86.0% (Base) USDC,fluid-lending USDC vault USDC [Ethereum],5.241,4.631,-0.61,26.6,-2.202,-0.426,-1.344,0.12
+BTC,OKX margin BTC,Gate Uni lending BTC,0.788,0.173,-0.615,0.0,-0.932,-0.428,-0.727,-0.504
+USD,Kamino (Solana) USDC,Bitfinex funding USD,5.604,4.982,-0.622,36.4,-4.175,-1.469,0.454,-1.692
+USD,Aave v3 Arbitrum USDC,Lend USDC on aave-v3 USDC [Ethereum],4.058,3.435,-0.622,11.8,-1.427,-0.274,-0.996,-0.251
+USD,Kamino (Solana) USDT,morpho-blue SPARKUSDC vault USDC [Base],5.139,4.515,-0.625,36.4,-1.999,-1.573,0.281,-1.525
+USD,Kamino (Solana) USDC,Bitfinex funding USDT,5.604,4.979,-0.625,35.6,-4.618,-1.553,0.378,-1.623
+ETH,Aave v3 Base WETH,Lend WETH on aave-v3 WETH [Ethereum],2.334,1.705,-0.629,6.6,-1.133,-0.762,-0.689,-0.57
+USD,OKX margin USDC,Lend USDE on aave-v3 USDE [Ethereum],2.982,2.347,-0.634,29.3,-2.532,-2.532,-1.395,0.122
+ETH,Aave v3 Arbitrum WETH,Lend WETH on aave-v3 WETH [Ethereum],2.344,1.705,-0.639,9.0,-1.304,-0.587,-0.843,-0.436
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Lend WETH on sparklend WETH [Ethereum],2.212,1.568,-0.644,4.1,-1.503,-0.721,-0.744,-0.545
+BTC,Aave v3 Base CBBTC,Gate Uni lending BTC,0.825,0.173,-0.652,0.0,-0.9,-0.593,-0.643,-0.661
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,OKX Simple Earn WETH,2.086,1.426,-0.659,30.7,-2.134,-1.572,0.206,-1.52
+USD,Aave v3 Base USDC,fluid-lending USDT vault USDT [Ethereum],4.996,4.334,-0.662,26.3,-2.667,-0.223,-1.606,0.277
+BTC,Aave v3 Arbitrum WBTC,Gate Uni lending BTC,0.86,0.173,-0.687,3.8,-0.977,-0.73,-0.487,-0.886
+ETH,Morpho WSTETH/WETH 94.5% (Ethereum) WETH,Bitfinex funding WETH,2.086,1.378,-0.708,19.5,-2.695,-0.29,0.103,-1.514
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,fluid-lending USDC vault USDC [Ethereum],5.358,4.631,-0.727,26.0,-2.518,-0.377,-1.593,0.135
+USD,Aave v3 Base USDC,morpho-blue STEAKUSDC vault USDC [Base],4.996,4.259,-0.737,12.1,-1.591,-1.577,-0.471,-1.002
+USD,Aave v3 Ethereum USDC,Kamino (Solana) USDC [Solana],4.672,3.932,-0.74,25.5,-2.2,0.372,-1.501,0.016
+BTC,OKX margin BTC,Lend WBTC on aave-v3 WBTC [Arbitrum],0.788,0.037,-0.751,0.0,-0.988,-0.477,-0.97,-0.533
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Lend USDC on aave-v3 USDC [Ethereum],4.188,3.435,-0.752,9.6,-1.563,-1.21,-0.868,-0.637
+BTC,OKX margin BTC,Lend CBBTC on aave-v3 CBBTC [Base],0.788,0.033,-0.755,0.0,-0.978,-0.49,-0.951,-0.56
+USD,Aave v3 Base USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],4.996,4.238,-0.758,15.9,-2.969,0.097,-1.298,-0.22
+ETH,Aave v3 Base WETH,Lend WETH on sparklend WETH [Ethereum],2.334,1.568,-0.766,1.6,-1.03,-0.76,-0.762,-0.769
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Lend USDC on aave-v3 USDC [Ethereum],4.204,3.435,-0.769,8.2,-1.579,-1.202,-0.913,-0.626
+ETH,Aave v3 Arbitrum WETH,Lend WETH on sparklend WETH [Ethereum],2.344,1.568,-0.775,2.2,-1.112,-0.584,-0.917,-0.635
+BTC,OKX margin BTC,Lend CBBTC on sparklend CBBTC [Ethereum],0.788,0.01,-0.778,0.0,-1.0,-0.499,-0.984,-0.574
+BTC,OKX margin BTC,Lend WBTC on aave-v3 WBTC [Ethereum],0.788,0.006,-0.782,0.0,-0.997,-0.496,-0.995,-0.571
+BTC,OKX margin BTC,Lend TBTC on aave-v3 TBTC [Ethereum],0.788,0.004,-0.784,0.0,-0.998,-0.5,-0.993,-0.576
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Lend USDC on aave-v3 USDC [Ethereum],4.221,3.435,-0.785,8.5,-1.573,-1.327,-0.901,-0.67
+BTC,OKX margin BTC,Bitfinex funding BTC,0.788,0.003,-0.785,0.0,-0.999,-0.499,-0.996,-0.576
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,OKX Simple Earn WETH,2.212,1.426,-0.786,27.4,-2.204,-1.658,0.018,-1.585
+BTC,OKX margin BTC,Lend CBBTC on aave-v3 CBBTC [Ethereum],0.788,0.002,-0.786,0.0,-0.999,-0.499,-0.998,-0.575
+BTC,Aave v3 Base CBBTC,Lend WBTC on aave-v3 WBTC [Arbitrum],0.825,0.037,-0.788,0.0,-1.164,-0.642,-0.887,-0.691
+USD,Aave v3 Ethereum USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.672,3.876,-0.796,19.5,-2.907,-1.176,-0.443,-1.148
+ETH,Aave v3 Ethereum WETH,Lend WETH on sparklend WETH [Ethereum],2.365,1.568,-0.797,0.5,-2.188,-0.622,-0.759,-0.834
+USD,Kamino (Solana) USDT,fluid-lending USDT vault USDT [Ethereum],5.139,4.334,-0.805,28.5,-2.829,-0.88,-0.83,-0.78
+BTC,Aave v3 Base CBBTC,Lend CBBTC on sparklend CBBTC [Ethereum],0.825,0.01,-0.816,0.0,-1.176,-0.665,-0.9,-0.732
+USD,OKX margin USDT,OKX Simple Earn USDC,2.879,2.063,-0.816,10.7,-1.967,-0.712,-0.995,-0.638
+BTC,Aave v3 Base CBBTC,Lend WBTC on aave-v3 WBTC [Ethereum],0.825,0.006,-0.82,0.0,-1.185,-0.662,-0.911,-0.729
+BTC,Aave v3 Base CBBTC,Lend TBTC on aave-v3 TBTC [Ethereum],0.825,0.004,-0.821,0.0,-1.19,-0.665,-0.91,-0.734
+BTC,Aave v3 Base CBBTC,Bitfinex funding BTC,0.825,0.003,-0.823,0.0,-1.187,-0.665,-0.912,-0.734
+BTC,Aave v3 Base CBBTC,Lend CBBTC on aave-v3 CBBTC [Ethereum],0.825,0.002,-0.823,0.0,-1.188,-0.665,-0.914,-0.733
+BTC,Aave v3 Arbitrum WBTC,Lend CBBTC on aave-v3 CBBTC [Base],0.86,0.033,-0.827,0.0,-1.021,-0.791,-0.711,-0.942
+ETH,Morpho WSTETH/WETH 96.5% (Ethereum) WETH,Bitfinex funding WETH,2.212,1.378,-0.835,16.2,-2.765,-0.376,-0.086,-1.58
+BTC,Aave v3 Arbitrum WBTC,Lend CBBTC on sparklend CBBTC [Ethereum],0.86,0.01,-0.851,0.0,-1.038,-0.801,-0.744,-0.957
+USD,Kamino (Solana) USDC,Stake USDT -> SYRUPUSDT (maple) USDT [Ethereum],5.604,4.751,-0.853,38.1,-3.609,-1.993,0.499,-2.198
+BTC,Aave v3 Arbitrum WBTC,Lend WBTC on aave-v3 WBTC [Ethereum],0.86,0.006,-0.855,0.0,-1.032,-0.798,-0.755,-0.953
+BTC,Aave v3 Arbitrum WBTC,Lend TBTC on aave-v3 TBTC [Ethereum],0.86,0.004,-0.856,0.0,-1.038,-0.801,-0.754,-0.959
+USD,Kamino (Solana) USDC,morpho-blue GTUSDCP vault USDC [Base],5.604,4.747,-0.857,35.1,-3.513,-2.581,0.491,-2.198
+BTC,Aave v3 Arbitrum WBTC,Bitfinex funding BTC,0.86,0.003,-0.858,0.0,-1.037,-0.801,-0.756,-0.958
+BTC,Aave v3 Arbitrum WBTC,Lend CBBTC on aave-v3 CBBTC [Ethereum],0.86,0.002,-0.858,0.0,-1.037,-0.801,-0.758,-0.958
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Kamino (Solana) USDT [Solana],3.713,2.85,-0.863,27.1,-2.337,-0.351,-1.38,-0.349
+USD,Kamino (Solana) USDT,morpho-blue STEAKUSDC vault USDC [Base],5.139,4.259,-0.881,35.9,-2.441,-2.235,0.305,-2.059
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Kamino (Solana) USDT [Solana],3.733,2.85,-0.883,26.0,-2.396,-0.366,-1.299,-0.469
+USD,Kamino (Solana) USDT,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],5.139,4.238,-0.901,27.9,-3.141,-0.561,-0.522,-1.277
+USD,Morpho WETH/USDC 86.0% (Base) USDC,fluid-lending USDT vault USDT [Ethereum],5.241,4.334,-0.907,17.5,-3.235,-0.299,-1.63,-0.189
+ETH,Aave v3 Base WETH,OKX Simple Earn WETH,2.334,1.426,-0.907,18.6,-2.205,-1.696,-0.001,-1.809
+ETH,Aave v3 Arbitrum WETH,OKX Simple Earn WETH,2.344,1.426,-0.917,12.9,-2.263,-1.52,-0.155,-1.675
+USD,Aave v3 Ethereum USDT,Lend USDC on aave-v3 USDC [Ethereum],4.357,3.435,-0.922,5.8,-1.763,-0.861,-1.185,-0.66
+USD,Aave v3 Arbitrum USDC,Lend USDT on aave-v3 USDT [Ethereum],4.058,3.132,-0.926,9.6,-2.021,-0.284,-1.282,-0.572
+ETH,Aave v3 Ethereum WETH,OKX Simple Earn WETH,2.365,1.426,-0.938,20.8,-3.401,-1.558,0.002,-1.874
+ETH,Aave v3 Base WETH,Bitfinex funding WETH,2.334,1.378,-0.956,12.1,-2.759,-0.415,-0.104,-1.804
+ETH,Aave v3 Arbitrum WETH,Bitfinex funding WETH,2.344,1.378,-0.966,10.7,-2.875,-0.239,-0.258,-1.669
+USD,Kamino (Solana) USDC,fluid-lending USDC vault USDC [Ethereum],5.604,4.631,-0.973,16.4,-2.988,-2.463,-0.403,-1.539
+ETH,Aave v3 Ethereum WETH,Bitfinex funding WETH,2.365,1.378,-0.987,13.2,-3.963,-0.277,-0.101,-1.869
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],5.241,4.238,-1.003,10.1,-3.211,0.021,-1.322,-0.686
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Lend USDS on sparklend USDS [Ethereum],3.713,2.7,-1.013,20.0,-2.508,-1.584,-0.246,-1.776
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,fluid-lending USDT vault USDT [Ethereum],5.358,4.334,-1.024,17.0,-3.259,-0.25,-1.879,-0.174
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Lend USDS on sparklend USDS [Ethereum],3.733,2.7,-1.033,19.5,-3.04,-1.599,-0.164,-1.896
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Lend USDT on aave-v3 USDT [Ethereum],4.188,3.132,-1.056,7.9,-1.975,-1.22,-1.154,-0.958
+USD,Aave v3 Base USDC,Kamino (Solana) USDC [Solana],4.996,3.932,-1.064,23.8,-3.34,0.322,-2.463,0.328
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Lend USDT on aave-v3 USDT [Ethereum],4.204,3.132,-1.073,7.1,-2.008,-1.212,-1.199,-0.947
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Lend USDT on aave-v3 USDT [Ethereum],4.221,3.132,-1.089,7.4,-2.042,-1.337,-1.187,-0.991
+USD,Kamino (Solana) USDC,morpho-blue SPARKUSDC vault USDC [Base],5.604,4.515,-1.09,34.0,-3.943,-3.029,0.423,-2.593
+USD,OKX margin USDC,OKX Simple Earn USDT,2.982,1.87,-1.112,1.9,-1.867,-0.502,-1.32,-0.906
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],5.358,4.238,-1.12,8.8,-3.347,0.069,-1.571,-0.671
+USD,Aave v3 Base USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],4.996,3.876,-1.12,4.4,-2.638,-1.226,-1.405,-0.836
+SOL,OKX margin SOL,Gate Uni lending SOL,5.472,4.268,-1.204,4.7,-4.837,-1.797,-1.873,-0.54
+USD,Kamino (Solana) USDT,Kamino (Solana) USDC [Solana],5.139,3.932,-1.207,14.2,-3.278,-0.335,-1.687,-0.729
+USD,Aave v3 Arbitrum USDC,Kamino (Solana) USDT [Solana],4.058,2.85,-1.208,22.2,-3.347,-0.293,-2.168,-0.253
+SOL,Kamino (Solana) SOL,Kamino (Solana) JITOSOL [Solana],6.854,5.623,-1.231,31.0,-5.164,-2.02,-0.285,-2.171
+USD,Kamino (Solana) USDT,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],5.139,3.876,-1.263,23.8,-2.786,-1.884,-0.629,-1.894
+USD,Kamino (Solana) USDC,fluid-lending USDT vault USDT [Ethereum],5.604,4.334,-1.27,12.1,-4.429,-2.336,-0.688,-1.848
+USD,OKX margin USDT,Gate Uni lending USDT,2.879,1.57,-1.309,4.1,-2.299,-1.167,-1.45,-1.169
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Kamino (Solana) USDC [Solana],5.241,3.932,-1.309,15.6,-3.891,0.246,-2.487,-0.138
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Gate Uni lending USDC,3.713,2.395,-1.318,13.2,-3.765,-1.665,-1.055,-1.58
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDT [Solana],4.188,2.85,-1.338,9.3,-3.282,-1.229,-2.04,-0.639
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Gate Uni lending USDC,3.733,2.395,-1.338,12.6,-3.762,-1.68,-0.974,-1.7
+USD,Kamino (Solana) USDC,morpho-blue STEAKUSDC vault USDC [Base],5.604,4.259,-1.345,34.0,-4.485,-3.691,0.446,-3.127
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDT [Solana],4.204,2.85,-1.355,9.6,-3.349,-1.221,-2.085,-0.628
+USD,Aave v3 Arbitrum USDC,Lend USDS on sparklend USDS [Ethereum],4.058,2.7,-1.358,0.8,-3.434,-1.525,-1.034,-1.68
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Lend USDE on aave-v3 USDE [Ethereum],3.713,2.347,-1.365,9.6,-3.044,-3.044,-1.713,-1.019
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],5.241,3.876,-1.366,2.5,-3.045,-1.302,-1.429,-1.302
+USD,Kamino (Solana) USDC,Stake USDE -> SUSDE (ethena-usde) USDE [Ethereum],5.604,4.238,-1.366,21.4,-3.864,-2.017,-0.381,-2.345
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Kamino (Solana) USDT [Solana],4.221,2.85,-1.371,9.3,-3.338,-1.346,-2.074,-0.672
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Lend USDE on aave-v3 USDE [Ethereum],3.733,2.347,-1.385,9.9,-3.059,-3.059,-1.632,-1.14
+USD,OKX margin USDC,Gate Uni lending USDT,2.982,1.57,-1.411,4.1,-2.338,-1.175,-1.535,-1.289
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Kamino (Solana) USDC [Solana],5.358,3.932,-1.426,14.8,-3.895,0.295,-2.736,-0.123
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],5.358,3.876,-1.482,0.0,-3.074,-1.254,-1.678,-1.288
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Lend USDS on sparklend USDS [Ethereum],4.188,2.7,-1.488,0.8,-2.54,-2.462,-0.906,-2.066
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Lend USDS on sparklend USDS [Ethereum],4.204,2.7,-1.504,0.8,-2.518,-2.454,-0.951,-2.055
+USD,Aave v3 Ethereum USDT,Kamino (Solana) USDT [Solana],4.357,2.85,-1.507,19.7,-3.376,-0.88,-2.357,-0.662
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Lend USDS on sparklend USDS [Ethereum],4.221,2.7,-1.521,0.8,-2.582,-2.578,-0.939,-2.099
+USD,Aave v3 Ethereum USDC,Lend USDT on aave-v3 USDT [Ethereum],4.672,3.132,-1.541,3.3,-2.184,-1.081,-1.712,-1.37
+USD,Aave v3 Base USDC,Lend USDC on aave-v3 USDC [Ethereum],4.996,3.435,-1.56,3.8,-3.34,-1.121,-2.388,-0.737
+USD,OKX margin USDT,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],2.879,1.263,-1.616,4.1,-2.434,-2.275,-1.695,-1.538
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,OKX Simple Earn USDC,3.713,2.063,-1.649,13.2,-3.723,-1.231,-1.398,-1.899
+USD,Aave v3 Ethereum USDT,Lend USDS on sparklend USDS [Ethereum],4.357,2.7,-1.657,0.5,-4.528,-2.113,-1.223,-2.089
+USD,Aave v3 Arbitrum USDC,Gate Uni lending USDC,4.058,2.395,-1.663,2.7,-4.907,-1.606,-1.843,-1.484
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,OKX Simple Earn USDC,3.733,2.063,-1.669,12.9,-3.718,-1.246,-1.317,-2.02
+USD,Kamino (Solana) USDT,Lend USDC on aave-v3 USDC [Ethereum],5.139,3.435,-1.704,8.2,-3.659,-1.778,-1.613,-1.794
+USD,Aave v3 Arbitrum USDC,Lend USDE on aave-v3 USDE [Ethereum],4.058,2.347,-1.71,6.3,-3.272,-2.985,-2.501,-0.924
+USD,OKX margin USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],2.982,1.263,-1.719,4.1,-2.473,-2.283,-1.78,-1.658
+USD,Kamino (Solana) USDC,Stake USDS -> SUSDS (sky-lending) USDS [Ethereum],5.604,3.876,-1.728,12.3,-4.207,-3.34,-0.488,-2.962
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDC,4.188,2.395,-1.793,3.0,-3.391,-2.543,-1.716,-1.87
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Lend USDC on aave-v3 USDC [Ethereum],5.241,3.435,-1.806,4.1,-3.363,-1.197,-2.412,-1.203
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDC,4.204,2.395,-1.81,3.0,-3.378,-2.535,-1.76,-1.859
+USD,Aave v3 Ethereum USDC,Kamino (Solana) USDT [Solana],4.672,2.85,-1.823,7.9,-3.994,-1.09,-2.599,-1.051
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDC,4.221,2.395,-1.826,3.0,-3.395,-2.659,-1.749,-1.903
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Lend USDE on aave-v3 USDE [Ethereum],4.188,2.347,-1.84,5.5,-3.921,-3.921,-2.374,-1.31
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,OKX Simple Earn USDT,3.713,1.87,-1.843,6.3,-3.3,-1.013,-1.638,-2.047
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Lend USDE on aave-v3 USDE [Ethereum],4.204,2.347,-1.857,5.2,-3.913,-3.913,-2.418,-1.299
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,OKX Simple Earn USDT,3.733,1.87,-1.863,6.0,-3.716,-1.028,-1.556,-2.168
+USD,Aave v3 Base USDC,Lend USDT on aave-v3 USDT [Ethereum],4.996,3.132,-1.864,4.1,-3.339,-1.131,-2.674,-1.058
+SOL,OKX margin SOL,Bitfinex funding SOL,5.472,3.605,-1.867,4.1,-6.429,-1.9,-1.118,-2.612
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Lend USDE on aave-v3 USDE [Ethereum],4.221,2.347,-1.873,5.2,-4.038,-4.038,-2.407,-1.343
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Lend USDC on aave-v3 USDC [Ethereum],5.358,3.435,-1.923,3.3,-3.752,-1.148,-2.661,-1.188
+USD,Aave v3 Ethereum USDT,Gate Uni lending USDC,4.357,2.395,-1.963,3.6,-6.106,-2.194,-2.032,-1.893
+USD,Aave v3 Ethereum USDC,Lend USDS on sparklend USDS [Ethereum],4.672,2.7,-1.972,0.3,-4.125,-2.323,-1.464,-2.478
+USD,Aave v3 Arbitrum USDC,OKX Simple Earn USDC,4.058,2.063,-1.994,3.6,-5.035,-1.173,-2.186,-1.803
+USD,Kamino (Solana) USDT,Lend USDT on aave-v3 USDT [Ethereum],5.139,3.132,-2.007,4.1,-3.429,-1.788,-1.899,-2.115
+USD,Aave v3 Ethereum USDT,Lend USDE on aave-v3 USDE [Ethereum],4.357,2.347,-2.01,4.4,-3.573,-3.573,-2.69,-1.333
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Lend USDT on aave-v3 USDT [Ethereum],5.241,3.132,-2.11,4.7,-3.489,-1.207,-2.698,-1.524
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDC,4.188,2.063,-2.124,1.9,-3.43,-2.109,-2.058,-2.19
+SOL,Kamino (Solana) SOL,OKX Simple Earn SOL,6.854,4.716,-2.138,13.7,-6.955,-4.068,0.107,-4.371
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDC,4.204,2.063,-2.141,1.9,-3.422,-2.101,-2.103,-2.179
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Gate Uni lending USDT,3.713,1.57,-2.142,2.5,-3.747,-1.686,-1.853,-2.43
+USD,Aave v3 Base USDC,Kamino (Solana) USDT [Solana],4.996,2.85,-2.146,7.9,-4.836,-1.14,-3.561,-0.739
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDC,4.221,2.063,-2.157,1.6,-3.434,-2.226,-2.092,-2.223
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Gate Uni lending USDT,3.733,1.57,-2.162,1.6,-3.793,-1.701,-1.771,-2.551
+USD,Kamino (Solana) USDC,Lend USDC on aave-v3 USDC [Ethereum],5.604,3.435,-2.169,3.3,-4.431,-3.234,-1.471,-2.862
+USD,Aave v3 Arbitrum USDC,OKX Simple Earn USDT,4.058,1.87,-2.188,1.4,-4.55,-0.955,-2.426,-1.952
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Lend USDT on aave-v3 USDT [Ethereum],5.358,3.132,-2.227,3.8,-3.634,-1.158,-2.947,-1.51
+USD,Aave v3 Ethereum USDC,Gate Uni lending USDC,4.672,2.395,-2.278,3.0,-5.651,-2.404,-2.274,-2.282
+USD,Aave v3 Ethereum USDT,OKX Simple Earn USDC,4.357,2.063,-2.294,4.4,-6.158,-1.76,-2.375,-2.213
+USD,Aave v3 Base USDC,Lend USDS on sparklend USDS [Ethereum],4.996,2.7,-2.296,0.3,-3.343,-2.373,-2.426,-2.166
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDT,4.188,1.87,-2.318,0.0,-2.981,-1.891,-2.298,-2.338
+USD,Aave v3 Ethereum USDC,Lend USDE on aave-v3 USDE [Ethereum],4.672,2.347,-2.325,3.3,-3.782,-3.782,-2.932,-1.721
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDT,4.204,1.87,-2.335,0.0,-3.016,-1.883,-2.343,-2.327
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,OKX Simple Earn USDT,4.221,1.87,-2.351,0.0,-3.045,-2.008,-2.331,-2.371
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Kamino (Solana) USDT [Solana],5.241,2.85,-2.392,6.8,-4.884,-1.216,-3.585,-1.205
+USD,Kamino (Solana) USDT,Lend USDS on sparklend USDS [Ethereum],5.139,2.7,-2.439,8.5,-3.61,-3.03,-1.651,-3.223
+USD,Morpho WSTETH/USDT 86.0% (Ethereum) USDT,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],3.713,1.263,-2.45,0.0,-3.459,-2.794,-2.098,-2.799
+USD,Morpho WBTC/USDT 86.0% (Ethereum) USDT,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],3.733,1.263,-2.47,0.0,-3.991,-2.809,-2.017,-2.92
+USD,Kamino (Solana) USDC,Lend USDT on aave-v3 USDT [Ethereum],5.604,3.132,-2.472,4.4,-5.165,-3.244,-1.757,-3.184
+USD,Aave v3 Arbitrum USDC,Gate Uni lending USDT,4.058,1.57,-2.487,0.5,-4.929,-1.628,-2.641,-2.335
+USD,Aave v3 Ethereum USDT,OKX Simple Earn USDT,4.357,1.87,-2.488,0.5,-5.667,-1.542,-2.615,-2.361
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Kamino (Solana) USDT [Solana],5.358,2.85,-2.509,6.0,-5.295,-1.167,-3.834,-1.19
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Lend USDS on sparklend USDS [Ethereum],5.241,2.7,-2.541,1.1,-3.845,-2.449,-2.45,-2.632
+SOL,Kamino (Solana) SOL,Gate Uni lending SOL,6.854,4.268,-2.586,4.4,-6.6,-4.606,-1.765,-3.402
+USD,Aave v3 Base USDC,Gate Uni lending USDC,4.996,2.395,-2.601,2.2,-4.415,-2.453,-3.236,-1.97
+USD,Aave v3 Ethereum USDC,OKX Simple Earn USDC,4.672,2.063,-2.609,1.9,-5.747,-1.97,-2.617,-2.601
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDT,4.188,1.57,-2.617,0.0,-3.35,-2.564,-2.513,-2.721
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDT,4.204,1.57,-2.634,0.0,-3.337,-2.556,-2.558,-2.71
+USD,Aave v3 Base USDC,Lend USDE on aave-v3 USDE [Ethereum],4.996,2.347,-2.648,5.2,-4.479,-3.832,-3.894,-1.41
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Gate Uni lending USDT,4.221,1.57,-2.65,0.0,-3.354,-2.681,-2.546,-2.754
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Lend USDS on sparklend USDS [Ethereum],5.358,2.7,-2.658,0.3,-4.178,-2.4,-2.699,-2.617
+USD,Kamino (Solana) USDT,Gate Uni lending USDC,5.139,2.395,-2.745,3.6,-5.334,-3.111,-2.46,-3.027
+USD,Kamino (Solana) USDC,Kamino (Solana) USDT [Solana],5.604,2.85,-2.754,3.8,-4.385,-3.253,-2.644,-2.864
+USD,Aave v3 Ethereum USDT,Gate Uni lending USDT,4.357,1.57,-2.787,0.5,-6.065,-2.215,-2.83,-2.744
+USD,Kamino (Solana) USDT,Lend USDE on aave-v3 USDE [Ethereum],5.139,2.347,-2.792,4.1,-4.496,-4.49,-3.118,-2.467
+USD,Aave v3 Arbitrum USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.058,1.263,-2.795,0.0,-4.612,-2.736,-2.886,-2.704
+USD,Aave v3 Ethereum USDC,OKX Simple Earn USDT,4.672,1.87,-2.803,0.5,-5.255,-1.752,-2.856,-2.749
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Gate Uni lending USDC,5.241,2.395,-2.847,2.5,-4.729,-2.53,-3.26,-2.436
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Lend USDE on aave-v3 USDE [Ethereum],5.241,2.347,-2.894,4.7,-4.932,-3.909,-3.918,-1.876
+USD,Kamino (Solana) USDC,Lend USDS on sparklend USDS [Ethereum],5.604,2.7,-2.904,0.3,-5.605,-4.486,-1.509,-4.291
+USD,Morpho CBBTC/USDC 86.0% (Ethereum) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.188,1.263,-2.925,0.0,-3.672,-3.672,-2.759,-3.09
+USD,Aave v3 Base USDC,OKX Simple Earn USDC,4.996,2.063,-2.932,1.6,-4.742,-2.02,-3.579,-2.29
+USD,Morpho WSTETH/USDC 86.0% (Ethereum) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.204,1.263,-2.941,0.0,-3.664,-3.664,-2.803,-3.079
+USD,Morpho WBTC/USDC 86.0% (Ethereum) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.221,1.263,-2.958,0.0,-3.789,-3.789,-2.792,-3.123
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Gate Uni lending USDC,5.358,2.395,-2.964,1.9,-5.155,-2.481,-3.509,-2.422
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Lend USDE on aave-v3 USDE [Ethereum],5.358,2.347,-3.011,4.1,-5.304,-3.86,-4.167,-1.861
+USD,Kamino (Solana) USDT,OKX Simple Earn USDC,5.139,2.063,-3.076,2.2,-5.249,-2.677,-2.803,-3.347
+USD,Aave v3 Ethereum USDT,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.357,1.263,-3.094,0.0,-5.719,-3.323,-3.075,-3.113
+USD,Aave v3 Ethereum USDC,Gate Uni lending USDT,4.672,1.57,-3.102,0.5,-5.64,-2.425,-3.071,-3.132
+USD,Aave v3 Base USDC,OKX Simple Earn USDT,4.996,1.87,-3.126,0.5,-5.251,-1.802,-3.818,-2.438
+USD,Morpho WETH/USDC 86.0% (Base) USDC,OKX Simple Earn USDC,5.241,2.063,-3.178,1.4,-4.847,-2.096,-3.603,-2.756
+USD,Kamino (Solana) USDC,Gate Uni lending USDC,5.604,2.395,-3.21,1.9,-6.411,-4.567,-2.319,-4.096
+SOL,Kamino (Solana) SOL,Bitfinex funding SOL,6.854,3.605,-3.249,3.6,-8.248,-4.71,-1.011,-5.474
+USD,Kamino (Solana) USDC,Lend USDE on aave-v3 USDE [Ethereum],5.604,2.347,-3.257,3.8,-5.946,-5.946,-2.977,-3.535
+USD,Kamino (Solana) USDT,OKX Simple Earn USDT,5.139,1.87,-3.269,0.0,-5.292,-2.459,-3.043,-3.495
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,OKX Simple Earn USDC,5.358,2.063,-3.295,0.5,-5.066,-2.047,-3.852,-2.741
+USD,Morpho WETH/USDC 86.0% (Base) USDC,OKX Simple Earn USDT,5.241,1.87,-3.372,0.8,-5.355,-1.878,-3.842,-2.904
+USD,Aave v3 Ethereum USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.672,1.263,-3.409,0.0,-5.313,-3.533,-3.317,-3.501
+USD,Aave v3 Base USDC,Gate Uni lending USDT,4.996,1.57,-3.425,0.5,-4.935,-2.475,-4.033,-2.821
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,OKX Simple Earn USDT,5.358,1.87,-3.489,0.0,-5.574,-1.83,-4.091,-2.889
+USD,Kamino (Solana) USDC,OKX Simple Earn USDC,5.604,2.063,-3.541,0.8,-6.224,-4.133,-2.662,-4.415
+USD,Kamino (Solana) USDT,Gate Uni lending USDT,5.139,1.57,-3.569,0.0,-5.341,-3.132,-3.258,-3.878
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Gate Uni lending USDT,5.241,1.57,-3.671,0.8,-5.253,-2.551,-4.057,-3.287
+USD,Aave v3 Base USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],4.996,1.263,-3.733,0.0,-5.871,-3.583,-4.279,-3.19
+USD,Kamino (Solana) USDC,OKX Simple Earn USDT,5.604,1.87,-3.734,0.0,-6.39,-3.915,-2.901,-4.563
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Gate Uni lending USDT,5.358,1.57,-3.788,0.0,-5.364,-2.502,-4.306,-3.272
+USD,Kamino (Solana) USDT,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],5.139,1.263,-3.876,0.0,-6.036,-4.24,-3.503,-4.247
+USD,Morpho WETH/USDC 86.0% (Base) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],5.241,1.263,-3.978,0.0,-6.262,-3.659,-4.303,-3.656
+USD,Kamino (Solana) USDC,Gate Uni lending USDT,5.604,1.57,-4.034,0.0,-6.552,-4.588,-3.116,-4.946
+USD,Morpho CBBTC/USDC 86.0% (Base) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],5.358,1.263,-4.095,0.0,-6.291,-3.61,-4.552,-3.641
+USD,Kamino (Solana) USDC,Stake DAI -> SDAI (sky-lending) DAI [Ethereum],5.604,1.263,-4.341,0.0,-6.579,-5.696,-3.362,-5.315

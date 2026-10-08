@@ -21,6 +21,22 @@ then ranks combinations by net APY *and* by a risk-adjusted APY.
 **Latest results for a $10,000 portfolio: [RESULTS.md](RESULTS.md)** (every winning
 combination: [`results/strategies.csv`](results/strategies.csv)).
 
+### Second tool: cross-venue carry trade backtest
+
+`python -m leveraged_yield.carry` backtests the simpler **borrow cheap here, lend rich there**
+trade across centralised exchanges (OKX, Bitfinex, Gate) and DeFi (Aave, Morpho, Kamino,
+Maple, Sky, Ethena, Spark, Fluid, liquid staking) on a year of daily rates:
+
+* the raw spreads for every borrow venue / lend venue pair (USD, ETH, BTC, SOL),
+* what a $10,000 holder of USDC, ETH, BTC or SOL actually earns once the collateral needed
+  to borrow is accounted for, versus simply lending or staking the same coins,
+* a walk-forward test (choose on the first six months, score on the last six), weekly
+  venue rotation, and managed vs set-and-forget positions through real price crashes.
+
+**Results: [CARRY_RESULTS.md](CARRY_RESULTS.md)** (CSV: `results/carry_pairs.csv`,
+`results/carry_strategies.csv`). Code: `leveraged_yield/carry/`. `--refresh` re-downloads the
+history (a few minutes); otherwise the committed snapshot in `data/carry/` is used.
+
 ## Quick start
 
 ```bash
